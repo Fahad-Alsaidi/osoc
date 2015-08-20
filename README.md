@@ -1,3 +1,0 @@
-# osoc
-test porject
-ddd
